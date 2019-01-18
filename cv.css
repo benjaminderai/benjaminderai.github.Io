@@ -1,0 +1,33 @@
+body 
+{ background: #FFAFBD;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffc3a0, #FFAFBD);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffc3a0, #FFAFBD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+font-family: Georgia; color: #444; }
+h1 { font-size: 50px; text-transform: uppercase; letter-spacing: 3px; text-align: center;}
+h2 { font-size: 158%; text-align: center; text-decoration: underline black;}
+h3 { font-size: 139%; }
+h4 { font-size: 90% ; text-align: center;}
+h5 { text-align: center; } 
+h1, h2, h3, h4 { color: #333; }
+p { font-size: 150%; line-height: 25px; padding-right: 3em; text-align: center;}
+a { color: #990003 }
+a:hover { text-decoration: none; }
+strong { font-weight: bold; }
+li { line-height: 24px; border-bottom: 1px solid #ccc; }
+.salt { display: block; margin-left: auto; margin-right: auto }
+.trait { border-top: 1px solid black; padding: auto; }
+.presentation { text-align: center; }
+.competence { text-align: center; }
+.icon { display: block; margin-left: auto; margin-right: auto }
+
+.inter {
+    text-align: center;
+}
+
+hr {
+    width: 80%; border-top:2px solid black; ;
+}
+
+link {
+    text-align: center;
+}
